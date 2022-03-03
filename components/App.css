@@ -1,0 +1,57 @@
+body {
+  //background-color: #4f16d3;
+  color: white;
+  //padding: 100;
+  background-image: url(M.jpeg);
+  text-shadow: 2px 2px black;
+  //background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+
+  padding: 70px;
+}
+
+.btn {
+  background-color: rgb(5, 172, 69);
+  color: rgb(14, 13, 13);
+  padding: 8px 17px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.form-control {
+  margin-bottom: 15px;
+}
+.btn btn-primary btn-block {
+  color: white;
+}
+.App {
+  margin-bottom: 15px;
+}
+.Fname {
+  margin-bottom: 15px;
+}
+.Lname {
+  margin-bottom: 15px;
+}
+.DOB {
+  margin-bottom: 15px;
+}
+.gender {
+  margin-bottom: 15px;
+}
+.mobile {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.pwd {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.nw {
+  background-color: rgb(246, 247, 241);
+  color: rgb(14, 13, 13);
+  padding: 8px 17px;
+  font-weight: bold;
+  margin-top: 0px;
+}

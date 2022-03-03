@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&family=VT323&display=swap");
+
+body {
+  margin: 100px;
+  font-family: "Georgia";
+  color: rgb(3, 0, 0);
+}
+
+img {
+  max-width: 100%;
+}
+
+.content {
+  max-width: 960px;
+  margin: 10 auto;
+}
+
+a {
+  color: rgb(235, 243, 241);
+}
+.active {
+  color: red;
+  border: 2px solid red;
+}
