@@ -19,7 +19,7 @@ export function SignupForm(props) {
         <Input type="text" placeholder="Full Name" />
         <Input type="email" placeholder="Email" />
         <Input type="password" placeholder="Password" />
-        <Input type="password" placeholder="Confirm Password" />
+        <Input type="confirmpassword" placeholder="Confirm Password" />
       </FormContainer>
       <Marginer direction="vertical" margin={10} />
       <SubmitButton type="submit">REGISTER</SubmitButton>
