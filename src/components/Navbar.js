@@ -61,7 +61,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-               Courses
+               Statistics
               </Link>
             </li>
             <li>
